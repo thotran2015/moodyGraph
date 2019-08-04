@@ -1,6 +1,6 @@
 # Mood Map
 
-Visualize emotions of MIT students
+Visualize emotions of MIT students using t-SNE
 
 
 ## Contributing
